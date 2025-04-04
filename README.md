@@ -10,4 +10,4 @@ Steps:
 4. Created a docker image out of it
 5. Ran the container - tested locally on browser(http://localhost:3000/)
 6. Finally tagged the image and pushed the tagged image on to dockerhub.
-   - Now it’s public at: https://hub.docker.com/r/yourusername/docker-node-hello
+   - Now it’s public at: https://hub.docker.com/r/rohanvasista/docker-node-hello
