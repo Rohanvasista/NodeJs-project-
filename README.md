@@ -1,4 +1,4 @@
-# Sample Docker Node.js App
+# Containerizing sample Docker Node.js App
 
 This is a simple Node.js web app running in Docker.
 
